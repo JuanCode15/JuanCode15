@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://www.canva.com/design/DAGSwGIrUfk/zL-0TdzTnOuCLjdAtdSQGQ/view?utm_content=DAGSwGIrUfk&utm_campaign=designshare&utm_medium=link&utm_source=editor
+  <img src=
 </div>
 
 <p align="center">
