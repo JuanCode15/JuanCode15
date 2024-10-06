@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=Pepyn0&color=blueviolet" alt="Profile views" />
   &nbsp;
   <a href="https://github.com/Pepyn0?tab=followers">
-    <img src="https://img.shields.io/github/followers/Pepyn0?style=social" alt="Followers" />
+    <img src="[https://img.shields.io/github/followers/Pepyn0?style=social](https://github.com/JuanCode15)" alt="Followers" />
   </a>
 </p>
 
