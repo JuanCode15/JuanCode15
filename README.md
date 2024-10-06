@@ -8,8 +8,8 @@
 </div>
 
 <p align="center">
-    <a href="https://github.com/JuanCode15">
-      <img src="https://img.shields.io/badge/Followers-007bff?style=for-the-badge" alt="Followers" />
+ <a href="https://github.com/JuanCode15">
+      <img src="https://img.shields.io/badge/Followers%20❤️-007bff?style=for-the-badge" alt="Followers" />
     </a>
     &nbsp;
 
@@ -26,9 +26,9 @@
 </a>
 </p>
 
-
+  ## 👨‍💻 &nbsp;About Me
 <div>
-##About me
+
 
 📚 Software programming student.
 
