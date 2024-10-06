@@ -50,7 +50,7 @@
 
   ## 🛠 &nbsp;My Tech Stacks
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,php,vs)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,php,vscode)](https://skillicons.dev)
 
 </div>
 
