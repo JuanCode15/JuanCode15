@@ -69,13 +69,14 @@
 <div>
   ## 📊 &nbsp;My activities
 
-  <a href="(https://github.com/JuanCode15)">
-    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=JuanCode15&show_icons=false&count_private=true" />
+  <a href="https://github.com/JuanCode15">
+    <img width=450 height=170 align="center" alt="JuanCode15" src="https://github-readme-stats.vercel.app/api?username=JuanCode15&show_icons=false&count_private=true" />
   </a>
-  <a href="https://github.com/Pepyn0">
-    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&hide_border=true&count_private=true" />
+  <a href="https://github.com/JuanCode15">
+    <img align="center" alt="JuanCode15" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCode15&theme=midnight-purple&layout=compact&hide_border=true&count_private=true" />
   </a>
 </div>
+
 
 
 <!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
