@@ -13,17 +13,15 @@
     </a>
     &nbsp;
 
-<a href="mailto:tuemail@gmail.com">
+<a href="mailto:juanscampo15@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
-<a href="https://www.instagram.com/tuusuario">
+<a href="https://www.instagram.com/juans__15/profilecard/?igsh=MW5mOWo4YXZhbm9zNQ==">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 &nbsp;
-<a href="https://wa.me/tu_numero_de_telefono">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
+
 </p>
 
   ## 👨‍💻 &nbsp;About Me
