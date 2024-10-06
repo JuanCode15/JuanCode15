@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/github/followers/Pepyn0?style=social" alt="Followers" />
   </a>
 </p>
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 <div>
