@@ -34,31 +34,17 @@
   <br>
   
 
-</div>
-
-
-  ## 📚 &nbsp;Currently studying
-
-  - Javascript
-  - php
-  - Mysql
-  
-
-
-</div>
-
-
 <div>
 
   ## 🛠 &nbsp;My Tech Stacks
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,php,aws,angular,sqlite,ts)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,php,aws,angular,sqlite,ts,py)](https://skillicons.dev)
 
 </div>
 
 ## 🛠 &nbsp;Tools
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,bootstrap,codepen,git	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,bootstrap,codepen,git,postman	)](https://skillicons.dev)
 
 </div>
 
