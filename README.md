@@ -54,13 +54,13 @@
 
   ## 🛠 &nbsp;My Tech Stacks
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,php,aws)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,php,aws,angular,sqlite,ts)](https://skillicons.dev)
 
 </div>
 
 ## 🛠 &nbsp;Tools
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,bootstrap,codepen)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,bootstrap,codepen,git	)](https://skillicons.dev)
 
 </div>
 
