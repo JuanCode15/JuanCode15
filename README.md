@@ -27,12 +27,10 @@
   ## 👨‍💻 &nbsp;About Me
 <div>
 
-
-📚 Software programming student.
-
-🌱 I am always studying and learning new things. 
-
-⚡ programming moves the world
+- 🎓 Aspiring Full Stack Developer  
+- 🌱 Constantly exploring new tools and technologies to stay up-to-date.  
+- ⚡ Passionate about writing clean, maintainable, and impactful code.  
+- 🚀 Goal: Build scalable applications and contribute to open-source projects.
   <br>
   
 
