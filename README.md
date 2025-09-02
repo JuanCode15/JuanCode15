@@ -12,9 +12,7 @@
       <img src="https://img.shields.io/badge/Followers%20❤️-007bff?style=for-the-badge" alt="Followers" />
     </a>
     &nbsp;
-<a href="https://discord.com">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
+
 
 <a href="mailto:juanscampo15@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
