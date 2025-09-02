@@ -28,8 +28,6 @@
   ## 👨‍💻 &nbsp;About Me
 <div>
 
-  - https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord
-
 - 🎓 Aspiring Full Stack Developer  
 - 🌱 Constantly exploring new tools and technologies to stay up-to-date.  
 - ⚡ Passionate about writing clean, maintainable, and impactful code.  
