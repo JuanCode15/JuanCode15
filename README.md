@@ -28,7 +28,7 @@
   ## 👨‍💻 &nbsp;About Me
 <div>
 
-- 🎓 Aspiring Full Stack Developer  
+- 🎓 Full Stack Developer  
 - 🌱 Constantly exploring new tools and technologies to stay up-to-date.  
 - ⚡ Passionate about writing clean, maintainable, and impactful code.  
 - 🚀 Goal: Build scalable applications and contribute to open-source projects.
